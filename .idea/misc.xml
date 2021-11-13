@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/drawable/custom_progress.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/drawable/custon_progress.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/celebration.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/circle.xml" value="0.1339918946301925" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/instructions.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/item_input.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/start_up.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/stlyes.xml" value="0.1339918946301925" />
+        <entry key="..\:/Users/mabel/AndroidStudioProjects/SaveUp/app/src/main/res/layout/styles.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
